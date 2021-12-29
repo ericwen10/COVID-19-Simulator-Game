@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590974309 source:c:\users\jiaya\onedrive\desktop\covid-19 simulator\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<time.h>
+
